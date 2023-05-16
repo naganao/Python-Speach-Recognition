@@ -1,6 +1,6 @@
 # Develop Speach Recognition program using Python
 
-## Install library
+1. Install library
 
 ```
 pip install SpeechRecognition
